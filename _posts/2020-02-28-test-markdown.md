@@ -49,6 +49,8 @@ var foo = function(x) {
 }
 foo(3)
 ```
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/1.embed"></iframe> <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~popkdodge/1/.embed" height="525" width="100%"></iframe>
+
 
 And here is the same code yet again but with line numbers:
 
