@@ -8,5 +8,8 @@ tags: [test]
 comments: true
 ---
 
-    <a href="https://plotly.com/~popkdodge/1/?share_key=BsVpTmv2YYELODJ0jEeoAK" target="_blank" title="Stock Prices of Delta and its competitors" style="display: block; text-align: center;"><img src="https://plotly.com/~popkdodge/1.png?share_key=BsVpTmv2YYELODJ0jEeoAK" alt="Stock Prices of Delta and its competitors" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="popkdodge:1" sharekey-plotly="BsVpTmv2YYELODJ0jEeoAK" src="https://plotly.com/embed.js" async></script>
+.. raw:: html
+	
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <div id="cd52e831-399a-403d-9bb2-0c56214b1d38" style="height: 100%; width: 100%;" class="plotly-graph-div"></div>
+	<script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("cd52e831-399a-403d-9bb2-0c56214b1d38", [{"type": "pie", "values": [4500, 2500, 1053, 500], "labels": ["Oxygen", "Hydrogen", "Carbon_Dioxide", "Nitrogen"]}], {}, {"linkText": "Export to plot.ly", "showLink": true})</script>
