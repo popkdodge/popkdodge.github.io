@@ -16,7 +16,8 @@ The COVID-19 pandemic has cause significant financial impact on the airlines ind
 
 {: .box-note}
 **Note:** All of the graph and chart is interactive feel free to play around with it.
-
+![Example](https://gyazo.com/88d60e708bb497242596b7bfc76eed0a)
+![Example_2](https://gyazo.com/b35bbbdc75f99680d6667bef94a3d4b9)
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/1.embed"></iframe>
 
 ## Who is Delta Competitors?
@@ -36,7 +37,7 @@ All of these have a roughly similar peice of the marketshare pie ranging from 15
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/11.embed"></iframe>
 
-Gross margin is the sales revenue a company retains after incurring the direct costs associated with producing the goods it sells, and the services it provides.
+Gross margin is the sales revenue a company retains after incurring the direct costs associated with producing the goods it sells, and the services it provides. 
 
 Gross\:Margin\:=\:Net\:Sales-\:Cost\:of\:goods\:sold
 
