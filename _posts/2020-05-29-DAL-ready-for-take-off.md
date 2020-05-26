@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Delta "ready for take-off"?
-subtitle: As U.S. economy coming back to life US airlines companies stock look like a once in a lifetime opportunity for investors.
+subtitle: As the economy comes back to life U.S. airline company stocks look like a once in a lifetime opportunity for investors.
 gh-repo: popkdodge
 gh-badge: [star, fork, follow]
 tags: [stocks, investing, finance]
@@ -12,10 +12,10 @@ comments: true
 
 ## Introductions
 
-The COVID-19 pandemic has cause significant financial impact on the airlines industries. Whitch one of the major airlines is most at risk of bankrupcies?  In the past three months majors airlines stock plunge and loss 30-60% of its value. As shutdown come to a close investors look toward major airlines companies for a once in a lifetime opportunity to buy in to Airlines royalites such as **Delta** ([NYSE:DAL](https://finance.yahoo.com/quote/DAL/)), **Southwest Airlines** ([NYSE:LUV](https://finance.yahoo.com/quote/LUV/)), **American Airlines** ([NASDAQ: AAL](https://finance.yahoo.com/quote/AAL/)), and **United Airlines** ([NASDAQ:UAL](https://finance.yahoo.com/quote/UAL/)). Delta is america's largest airines will it lead the pack?
+The COVID-19 pandemic has caused significant financial impact on the airline industry. So which one of the major airlines most at-risk for bankruptcy? In the past three months major airlines stocks plunged with a 30-60% decrease in value. As shutdown comes to a close, investors look toward major airline companies for a once in a lifetime opportunity; to buy in to airlines royalites such as **Delta** ([NYSE:DAL](https://finance.yahoo.com/quote/DAL/)), **Southwest Airlines** ([NYSE:LUV](https://finance.yahoo.com/quote/LUV/)), **American Airlines** ([NASDAQ: AAL](https://finance.yahoo.com/quote/AAL/)), and **United Airlines** ([NASDAQ:UAL](https://finance.yahoo.com/quote/UAL/)). Delta is america’s largest airline, will it lead the pack?
 
 {: .box-note}
-**Note:** All of the graph and chart is interactive feel free to play around with it.
+**Note:** All of the graphs and charts are interactive! Use your cursor to play around with the visuals.
 
 ### Example
 ![Example](https://gyazo.com/88d60e708bb497242596b7bfc76eed0a.gif)
@@ -29,38 +29,37 @@ The COVID-19 pandemic has cause significant financial impact on the airlines ind
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/8.embed"></iframe>
 
-Looking at US airlines marketshare, the main competitor for Delta are Southwest Airlines, United Airlines, and American Airlines.
-All of these have a roughly similar peice of the marketshare pie ranging from 15-18%. For further comparision purpose I am going to enclude the smaller competitors.  
+Looking at the current US airline industry, the main competitors for Delta are Southwest Airlines, United Airlines, and American Airlines. All of these corporations have a similar sized peice of the marketshare pie ranging from 15-18%. For an expanded comparision, let's not forget about the little guys, I have included the smaller corporations as well.
 
-## How do Delta compares?
+## How does Delta compares?
 
-### Taking a look at companies matrics for comparision.
+### Taking a look at airline companies matrics for comparision.
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/11.embed"></iframe>
 
-**Gross margin** is the sales revenue a company retains after incurring the direct costs associated with producing the goods it sells, and the services it provides. 
+**Gross margin** is the sales revenue a company retains after incurring the direct costs associated with producing the goods it sells, and the services it provides.
 
-$latex Grossmargin = NetMargin$
+![Gross_Margin](https://i.gyazo.com/380b88bfea55c3d5b8cd7f931484f83c.png)
 
 #### Summary of airlines Gross Margins
 
-Among its competitors Delta airlines fit right in the middle of the pack in Gross Margin. Over the last 10 quarters All the airlines was pretty consistient trend only lossing 5% the first quarter.  American Airline here suffer the biggest loss of 10% of Gross margin.
+Among its competitors Delta airlines fits right in the middle of the pack in Gross Margin. Over the last 10 quarters all of the airlines were pretty consistent trending losses at about 5% the first quarter. Looking at the graph below you can see that American Airlines suffered the biggest loss at 10% of the gross margin.
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/14.embed"></iframe>
 
-**Profit margin** is the net percentage of profit after all of the expenses are taken in to accounts.  When calculating net profit, bussiness subtract the **cost of goods sold** as well as, product distribution, sales rep wages, other operating expenses and **taxes**.
+**Profit margin** is the net percentage of profit after all of the expenses are taken in to account. When calculating net profit, bussinesses subtract the **cost of goods sold** as well as, product distribution, sales rep wages, in addition to other operating expenses and **taxes**.
 
 #### Summary of airlines Profit Margins
 
-Among its competitors Delta airlines is toward the top end of the pack in Net Profit Margin. Over the last 10 quarters prior to the most recent quarter Delta show a slow and consistent growth where compare to the leader of the pack Southwest Airlines is on a small decline.  American airlines and United Airlines is the bottom of the pack.  All of the airliens companies suffer a net loss of profit in the first quarter of 2020.  This was the outcome of the early stage of the COVID-19 pandemic.  Dispite this both of the leaders; Southwest and Delta only suffer a net loss of profit of less than 10% where United and American Airlines exceed 20% in lost of Net Profit.
+Among its competitors Delta airlines is toward the top end of the pack when it comes to Net Profit Margin. Over the last 10 quarters prior to the most recent, Delta showed a slow and consistent growth. When compared to the leader of the pack Southwest Airlines is on a small decline, where American Airlines and United Airlines are at the bottom of the pack. Its safe to say all of the airline companies suffered a net loss of profit in the first quarter of 2020. This was the outcome of the early stage of the COVID-19 pandemic. Despite this losse both of the leaders; Southwest and Delta only suffered a net loss of profit of less than 10%, where United and American Airlines exceeded a 20% loss of Net Profit.
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/18.embed"></iframe>
 
-**Market Captitalization** is a company's worth or its total market value.  This number represent by the company's stock price multiplied by the number of share outstanding.  The number of shares outstanding is all the shares of a company stock that is purschest and held by the company's investors.
+**Market Captitalization** is a company’s worth, or its total market value. This number is represented by the company’s stock price multiplied by the number of shares outstanding, or all the shares of a company stock that is purchased and held by the company’s investors.
 
 #### Summary of airlines Market Cap.
 
-Among its competitors Delta airlines lead the pack and is consitently leading its main competitor Southwest.  Eversince the first quarter of 2018 Delta have lead against Southwest Airlines.  The most recent quarter shows a significant market cap reduction and Southwest Airines is slightly leading.  I believe this is a sign that Delta is more "oversold" compares to its competitors and would be a better bargian than Southwest.  United Airlines sit at the middle of the pack in market cap in the past 10 quarters and fell toward the bottom of the pack toward American airlines this recent quarter.
+Among its competitors, Delta Airlines leads the pack and is consistently edging out its main competitor Southwest. Ever since the first quarter of 2018 Delta has surpassed Southwest Airlines. The most recent quarter shows a significant market cap reduction, and Southwest Airines is leading slightly. I believe this is a sign that Delta is more “oversold” compared to its competitors and would be a better bargain than Southwest. United Airlines sits at the middle of the pack in market cap for the past 10 quarters and fell toward the bottom of the pack towards American airlines this recent quarter.
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/20.embed"></iframe>
 
@@ -83,17 +82,16 @@ Over periods of time Delta, United, and Southwest have maintain a consistant amm
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/25.embed"></iframe>
 
-**Free Cash Flow** is the ammount of cash that is left over after a company pay off its expenses and capital expenditure.  Free cash flow or FCF help measure a company effiencies at generating cash.  A high free cash flow can be use to pay investors dividens, expand operations or deleverage AKA. paying off debt.  A high and increasing FCF is a good sign.
+**Free Cash Flow** is the amount of cash that is leftover after a company pays off it's expenses and capital expenditure. Free cash flow or FCF helps to measure a company's efficiency at generating cash. A high FCF can be used to pay investors dividends, expand operations or deleverage, paying off debt. A high and increasing FCF is a good sign of recovery.
 
 #### Summary of airlines FCF
 
-Airlines companies as a whole follw a very cylicals pattern of Free Cash Flow. The cylicals patterns of FCF tend to Bottoms around the winter months and peaks during the summer months. The COVID-19 pandemic greatly effect this cylical patterns and causing the rebound of airlines FCF to not be as apparent. Every companies is greatly effected by the pandemic.
+Airline companies as a whole follow a very cyclical pattern of FCF. These cyclical patterns of FCF tend to bottom out around the winter months and peak during the summer months. The COVID-19 pandemic greatly affected these cyclical patterns, causing the rebound of the airline's FCF to not be as apparent because most businesses were and are negatively affected by the pandemic.
 
 # Conclusions
 
-Delta airlines and Southwest airlines are the two companies I would invest in for long-term purpose. They both lead the pack in the fundamental stock matrics.  Although I first belive that Delta would be the best airlines stock to invest I would admit that Southwest airlines could be an edge better.  
+In my opinion based on the data, Delta Airlines and Southwest Airlines are two companies I would invest in for long-term purposes. They both lead the pack in the fundamental stock matrics. Even though I first believed that Delta would be the best airline stock to invest in,  I now admit that Southwest Airlines has great potential. 
 
 ### DISCLAIMERS
 
-Sasana Kongjareon is the author of this post is for educational purpose and should not be relai upon as basis of investment decision.  The author may maintain position in securities that is discussed.
-
+Sasana Kongjareon, the author of this post strongly encourages use of this information for educational purposes only and should not be relied upon as a basis for any investment decisions. The author maintains no liability as to however the reader should use the information within.
