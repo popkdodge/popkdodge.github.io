@@ -40,11 +40,21 @@ All of these have a roughly similar peice of the marketshare pie ranging from 15
 
 **Gross margin** is the sales revenue a company retains after incurring the direct costs associated with producing the goods it sells, and the services it provides. 
 
-$Gross Margin=Net Sales−COGS$
+**Gross Margin=Net Sales−COGS(Cost of Goods Sold)**
 
 Among its competitors Delta airlines fit right in the middle of the pack in Gross Margin. Over the last 10 quarters All the airlines was pretty consistient trend only lossing 5% the first quarter.  American Airline here suffer the biggest loss of 10% of Gross margin.
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/14.embed"></iframe>
+
+**Profit margin** is the net percentage of profit after all of the expenses are taken in to accounts.  When calculating net profit, bussiness subtract the **cost of goods sold** as well as, product distribution, sales rep wages, other operating expenses and **taxes**.
+
+Among its competitors Delta airlines is toward the top end of the pack in Net Profit Margin. Over the last 10 quarters prior to the most recent quarter Delta show a slow and consistent growth where compare to the leader of the pack Southwest Airlines is on a small decline.  American airlines and United Airlines is the bottom of the pack.  All of the airliens companies suffer a net loss of profit in the first quarter of 2020.  This was the outcome of the early stage of the COVID-19 pandemic.  Dispite this both of the leaders; Southwest and Delta only suffer a net loss of profit of less than 10% where United and American Airlines exceed 20% in lost of Net Profit.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/18.embed"></iframe>
+
+**Market Captitalization** is a company's worth or its total market value.  This number represent by the company's stock price multiplied by the number of share outstanding.  The number of shares outstanding is all the shares of a company stock that is purschest and held by the company's investors.
+
+Among its competitors Delta airlines lead the pack and is consitently leading its main competitor Southwest.  Eversince the first quarter of 2018 Delta have lead against Southwest Airlines.  The most recent quarter shows a significant market cap reduction and Southwest Airines is slightly leading.  I believe this is a sign that Delta is more "oversold" compares to its competitors and would be a better bargian than Southwest.  United Airlines sit at the middle of the pack in market cap in the past 10 quarters and fell toward the bottom of the pack toward American airlines this recent quarter.
 
 
 
