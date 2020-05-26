@@ -15,4 +15,9 @@ The COVID-19 pandemic has cause significant financial impact on the airlines ind
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/1.embed"></iframe>
 
 ##Who is Delta Competitors?
+###Lets us look at the US Airline marketshare.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/8.embed"></iframe>
+
+Amongs
 
