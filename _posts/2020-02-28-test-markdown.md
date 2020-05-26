@@ -68,7 +68,6 @@ You can add notification, warning and error boxes like this:
 
 {: .box-note}
 **Note:** This is a notification box.
-![Example](https://gyazo.com/88d60e708bb497242596b7bfc76eed0a)
 
 ### Warning
 
