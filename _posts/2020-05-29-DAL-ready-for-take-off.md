@@ -36,6 +36,8 @@ All of these have a roughly similar peice of the marketshare pie ranging from 15
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/11.embed"></iframe>
 
+Gross margin is the sales revenue a company retains after incurring the direct costs associated with producing the goods it sells, and the services it provides.
 
+Gross\:Margin\:=\:Net\:Sales-\:Cost\:of\:goods\:sold
 
 
