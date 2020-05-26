@@ -40,7 +40,7 @@ All of these have a roughly similar peice of the marketshare pie ranging from 15
 
 **Gross margin** is the sales revenue a company retains after incurring the direct costs associated with producing the goods it sells, and the services it provides. 
 
-**$latex Grossmargin = NetMargin$ **
+$latex Grossmargin = NetMargin$
 
 Among its competitors Delta airlines fit right in the middle of the pack in Gross Margin. Over the last 10 quarters All the airlines was pretty consistient trend only lossing 5% the first quarter.  American Airline here suffer the biggest loss of 10% of Gross margin.
 
