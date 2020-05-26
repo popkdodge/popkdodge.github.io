@@ -14,6 +14,9 @@ comments: true
 
 The COVID-19 pandemic has cause significant financial impact on the airlines industries. Whitch one of the major airlines is most at risk of bankrupcies?  In the past three months majors airlines stock plunge and loss 30-60% of its value. As shutdown come to a close investors look toward major airlines companies for a once in a lifetime opportunity to buy in to Airlines royalites such as Delta ([NYSE:DAL](https://finance.yahoo.com/quote/DAL/)), Southwest Airlines([NYSE:LUV](https://finance.yahoo.com/quote/LUV/)), American Airlines ([NASDAQ: AAL](https://finance.yahoo.com/quote/AAL/)), and United Airlines ([NASDAQ:UAL](https://finance.yahoo.com/quote/UAL/)). Delta is the best choice amongs them.
 
+{: .box-note}
+**Note:** All of the graph and chart is interactive feel free to play around with it.
+
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/1.embed"></iframe>
 
 ## Who is Delta Competitors?
@@ -29,6 +32,9 @@ All of these have a roughly similar peice of the marketshare pie ranging from 15
 
 ### Taking a look at companies matrics for comparision.
 
+#### Gross margin
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/11.embed"></iframe>
 
 
 
