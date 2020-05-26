@@ -91,8 +91,9 @@ Airlines companies as a whole follw a very cylicals pattern of Free Cash Flow. T
 
 # Conclusions
 
+Delta airlines and Southwest airlines are the two companies I would invest in for long-term purpose. They both lead the pack in the fundamental stock matrics.  Although I first belive that Delta would be the best airlines stock to invest I would admit that Southwest airlines could be an edge better.  
 
+###DISCLAIMERS
 
-
-
+Sasana Kongjareon is the author of this post is for educational purpose and should not be relai upon as basis of investment decision.  The author may maintain position in securities that is discussed.
 
