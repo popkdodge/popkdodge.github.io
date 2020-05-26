@@ -40,6 +40,6 @@ All of these have a roughly similar peice of the marketshare pie ranging from 15
 
 **Gross margin** is the sales revenue a company retains after incurring the direct costs associated with producing the goods it sells, and the services it provides. 
 
-Gross\:Margin\:=\:Net\:Sales-\:Cost\:of\:goods\:sold
+$$ Gross\:Margin\:=\:Net\:Sales-\:Cost\:of\:goods\:sold $$
 
 
