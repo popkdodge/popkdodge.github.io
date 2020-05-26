@@ -56,6 +56,33 @@ Among its competitors Delta airlines is toward the top end of the pack in Net Pr
 
 Among its competitors Delta airlines lead the pack and is consitently leading its main competitor Southwest.  Eversince the first quarter of 2018 Delta have lead against Southwest Airlines.  The most recent quarter shows a significant market cap reduction and Southwest Airines is slightly leading.  I believe this is a sign that Delta is more "oversold" compares to its competitors and would be a better bargian than Southwest.  United Airlines sit at the middle of the pack in market cap in the past 10 quarters and fell toward the bottom of the pack toward American airlines this recent quarter.
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/20.embed"></iframe>
+
+**P/E Ratio**
+
+dfkasdfkasdkfklsdafka
+dfaklsdfdsafdafdfasdfasdfasdf
+sdfasdfasdf
+asdfsadf
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/22.embed"></iframe>
+
+**Debt to Equity**
+
+dfsdafda
+sadfasdf
+adf
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/25.embed"></iframe>
+
+**Free Cash Flow**
+
+sdfasdf
+s
+adfasd
+f
+
+
 
 
 
