@@ -63,11 +63,11 @@ Among its competitors, Delta Airlines leads the pack and is consistently edging 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/20.embed"></iframe>
 
-**P/E Ratio** is a measure of the relationship between a company's stock price and its earning per share of stocks inssue.  Generally a high P/E ratio indicates that investors expect higher earning but does not mean that is a better investment.  A high P/E ratio could indicated a 'overvalued' stock and vice versa.
+**P/E Ratio** is a measure of the relationship between a company's stock price and it's earning per share of stocks. Generally a high P/E ratio indicates that investors expect higher earning, but does not mean that it is a better investment. A high P/E ratio could indicate an "overvalued" stock and a low P/E could tell us the opposite.
 
 #### Summary of airlines P/E ratio
 
-Among its competitors Delta alirlines tend to stablize at a certian P/E ratio. Stock that have a consistent P/E ratio is less unpredictable and won't change too much with volatility. Delta, Southwest, and United all have a pretty consistent trend of P/E ratio with Southwest showing a slow increase of P/E ratio overtime.  From a P/E ratio perspective Southwest Airlines is the best among the airlines companies. What is interesting, is that American airlines have a very volitile P/E ratio where it show extreemly high peak at a P/E ratio of 34 and bottom at a P/E ratio of -6.
+Among it's competitors Delta Airlines tend to stabilize at a certain P/E ratio. Stocks that have a consistent P/E ratio are less unpredictable and won't change too much with volatility. Delta, Southwest, and United all have a pretty consistent trend when it comes to P/E ratio. Southwest shows a slow increase of P/E ratio overtime. Based on P/E ratio perspective alone Southwest Airlines is the best set against the airline's competitors. What is interesting is that American Airlines have a very volitile P/E ratio, showing an extremely high peak at a P/E ratio of 34 and at the bottom end at a P/E ratio of -6.
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/22.embed"></iframe>
 
