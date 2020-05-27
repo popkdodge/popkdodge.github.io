@@ -90,7 +90,7 @@ Airline companies as a whole follow a very cyclical pattern of FCF. These cyclic
 
 # Conclusions
 
-In my opinion based on the data, Delta Airlines and Southwest Airlines are two companies I would invest in for long-term purposes. They both lead the pack in the fundamental stock matrics. Even though I first believed that Delta would be the best airline stock to invest in,  I now admit that Southwest Airlines has great potential. 
+In my opinion based on the data, Delta Airlines and Southwest Airlines are two companies I would invest in for long-term purposes. They both lead the pack in the fundamental stock matrics. Even though I first believed that Delta would be the best airline stock to invest in,  I now admit that Southwest Airlines has great potential.
 
 ### DISCLAIMERS
 
