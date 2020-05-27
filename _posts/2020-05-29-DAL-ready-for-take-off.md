@@ -72,13 +72,13 @@ Among it's competitors Delta Airlines tend to stabilize at a certain P/E ratio. 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/22.embed"></iframe>
 
 {: .box-note}
-**Note:** AAL D/E ratio is very erratics compares to its competitors and skewing the charts I suggest to use the legend and click out the AAL bar and AAL lines.
+**Note:** AAL D/E ratio is very erratic compared to its competitors and skewing the charts. I suggest using the legend and click on the AAL bar and AAL lines.
 
-**Debt to Equity** evaluate a company's financial leverage. Higher the D/E ratio equate to a higher risk company.   D/E ratio is calculate by a company's Total Liability divide by the Total Shareholder's Equity.  Liability usualy consist of Loans ammounts and Shareholder's Equity is Total Liability minus All of a companies assets such as material, income, ect.
+**Debt to Equity** evaluates a company’s financial leverage. D/E ratio is calculated by a company’s Total Liability (TL) divided by the Total Shareholder’s Equity (TSE).  TL usually consists of loan amounts, whereas the TSE is the TL subtracted by all of a company's assets; such as material, income,...etc. In summary, the higher the D/E ratio of a corporation equates to the higher the risk of investing in that corporation.
 
 #### Summary of airlines D/E ratio.
 
-Over periods of time Delta, United, and Southwest have maintain a consistant ammount of D/E ratio. Delta D/E ratio ranges between 3.5 to 3.8. United airlines ranges 3.5 to 4.6. Southwest appear to be the best companies in term of leveraged health with only a 1.6 to 1.7 D/E ranges. **Notice** American Airlines have a huge negitive D/E ratio meaning that its liabilities exceed its assets throwing Its D/E ratio at a very volitle range of a 381 to -2817. American Airline have consistantly have a negitive D/E ratio meaning the companies operate at very risky territory.
+Over a period of time Delta, United, and Southwest have maintained a consistent  D/E ratio. Delta's D/E ratio ranges between 3.5 to 3.8, United airlines ranges between 3.5 to 4.6, and Southwest's has a range of 1.6 to 1.7. When looking at the D/E ranges, Southwest appears to be the best company in terms of leveraged health. Also notice that American Airlines has a huge negative D/E ratio. This means that American Airline’s liabilities exceeds its assets, throwing their D/E ratio into a very volatile range of 381 to -2817. In short, American Airlines has consistently had a negative D/E ratio, operating in very risky territory.
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~popkdodge/25.embed"></iframe>
 
