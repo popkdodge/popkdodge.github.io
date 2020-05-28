@@ -95,3 +95,7 @@ In my opinion based on the data, Delta Airlines and Southwest Airlines are two c
 ### DISCLAIMERS
 
 Sasana Kongjareon, the author of this post strongly encourages use of this information for educational purposes only and should not be relied upon as a basis for any investment decisions. The author maintains no liability as to however the reader should use the information within.
+
+### Links to Colabs Sources can be link within the collab.
+
+-https://colab.research.google.com/drive/1mcHF3kteKQ6CzIQYJqcrUg6z8f_zpN_-?usp=sharing
