@@ -1,10 +1,11 @@
 # --- Basic options --- #
-
+url: "http://noah40povis.github.io"
+baseurl: ""
 # Name of website
-title: My portfolio
+title: Noah's portfolio
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: My interests explained through Data Science 
 
 # Your name to show in the footer
 author: Noah Povis 
@@ -13,10 +14,10 @@ author: Noah Povis
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://noahpovis.io"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Resources:
+   # - Beautiful Jekyll: "https://noahpovis.io"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -42,9 +43,9 @@ social-network-links:
   facebook: 
   github: noah40povis
   twitter: 
-  rss: true
+  rss: false
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: Noah Povis 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
